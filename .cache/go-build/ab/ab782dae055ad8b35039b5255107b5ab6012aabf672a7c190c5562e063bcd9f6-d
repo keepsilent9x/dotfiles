@@ -1,0 +1,5 @@
+./analyzer.go
+./api_json.go
+./default.go
+./json.go
+./settings.go

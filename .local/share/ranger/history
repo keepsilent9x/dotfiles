@@ -1,0 +1,14 @@
+exec zsh
+shell select-editor
+touch keymaps.lua
+open_with 
+rename keymap.lua
+rename "keymaps.lua"
+rename keymaps.lua
+touch rainbow-delimiters.lua
+touch indent-blankline.lua
+mkdir helloworld
+go mod init
+open_with nvim
+delete
+

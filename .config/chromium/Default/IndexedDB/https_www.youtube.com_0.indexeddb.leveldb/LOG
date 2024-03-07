@@ -1,0 +1,6 @@
+2024/03/06-21:48:49.291 278 Creating DB /home/buidai289/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb since it was missing.
+2024/03/06-21:48:49.295 278 Reusing MANIFEST /home/buidai289/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/03/06-23:26:05.352 279 Level-0 table #5: started
+2024/03/06-23:26:05.362 279 Level-0 table #5: 946749 bytes OK
+2024/03/06-23:26:05.365 279 Delete type=0 #3
+2024/03/06-23:26:05.367 279 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

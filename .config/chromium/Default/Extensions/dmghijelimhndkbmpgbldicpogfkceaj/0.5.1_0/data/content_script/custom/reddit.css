@@ -1,0 +1,77 @@
+a[href*="/login"],
+a[href*="/submit"],
+a[href*="/register"],
+a[href*="/leaderboard"] {
+  filter: invert(100%) !important;
+  -webkit-filter: invert(100%) !important;
+}
+
+._2xu1HuBz1Yx6SP10AGVx_I,
+._3HD3Y7jXWPyFxKKnIJCHq3,
+._2n96dzZYei5koZIof4hNGb {
+  filter: invert(100%) !important;
+  -webkit-filter: invert(100%) !important;
+}
+
+faceplate-img,
+shreddit-join-button,
+media-telemetry-observer {
+  filter: invert(100%) !important;
+  -webkit-filter: invert(100%) !important;
+}
+
+span svg[icon-name] {
+  fill: #7f7f7f !important;
+}
+
+h2 {
+  color: #7b7b7b;
+}
+
+.peg24g-5 {
+  background-color: #e8e8e8 !important;
+}
+
+._1QwQLdEXq0cZZb7vcte4KK {
+  background-color: #dadada !important;
+}
+
+._2xQx4j6lBnDGQ8QsRnJEJa {
+  color: #fff !important;
+  border-color: #6b6b6b !important;
+  background-color: #313131 !important;
+}
+
+reddit-sidebar-nav::-webkit-scrollbar-thumb,
+div[id*='sidebar-container']::-webkit-scrollbar-thumb {
+  background-color: #f9f9f9 !important;
+}
+
+reddit-sidebar-nav::-webkit-scrollbar-track-piece,
+div[id*='sidebar-container']::-webkit-scrollbar-track-piece {
+  background-color: #dddddd !important;
+}
+
+.bg-neutral-background {
+  background-color: #e3e3e3 !important;
+}
+
+div[class*='text'],
+span[class*='text'] {
+  font-weight: 600 !important;
+}
+
+.s\:pr-0 {
+  height: 100%;
+  background-color: #bdbdbd !important;
+}
+
+trending-gallery-carousel a div[style] {
+  background: unset !important;
+}
+
+shreddit-post,
+comment-body-header,
+shreddit-comment-tree {
+  background-color: #dfdfdf !important;
+}

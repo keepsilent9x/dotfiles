@@ -1,0 +1,36 @@
+2024/03/06-21:44:12.302 7 Reusing MANIFEST /home/buidai289/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
+2024/03/06-21:44:12.303 7 Recovering log #3
+2024/03/06-21:44:12.303 7 Reusing old log /home/buidai289/.config/chromium/Default/Local Storage/leveldb/000003.log 
+2024/03/06-21:59:28.433 6 Level-0 table #5: started
+2024/03/06-21:59:28.444 6 Level-0 table #5: 37891 bytes OK
+2024/03/06-21:59:28.448 6 Delete type=0 #3
+2024/03/06-22:06:03.805 6 Level-0 table #7: started
+2024/03/06-22:06:03.817 6 Level-0 table #7: 36279 bytes OK
+2024/03/06-22:06:03.826 6 Delete type=0 #4
+2024/03/06-22:24:49.579 4 Level-0 table #9: started
+2024/03/06-22:24:49.590 4 Level-0 table #9: 73571 bytes OK
+2024/03/06-22:24:49.594 4 Delete type=0 #6
+2024/03/06-22:39:43.347 4 Level-0 table #11: started
+2024/03/06-22:39:43.359 4 Level-0 table #11: 58451 bytes OK
+2024/03/06-22:39:43.363 4 Delete type=0 #8
+2024/03/06-22:57:30.152 4 Level-0 table #13: started
+2024/03/06-22:57:30.163 4 Level-0 table #13: 21030 bytes OK
+2024/03/06-22:57:30.167 4 Delete type=0 #10
+2024/03/06-23:17:02.092 4 Level-0 table #15: started
+2024/03/06-23:17:02.101 4 Level-0 table #15: 33263 bytes OK
+2024/03/06-23:17:02.106 4 Delete type=0 #12
+2024/03/06-23:17:02.106 4 Compacting 4@0 + 1@1 files
+2024/03/06-23:17:02.109 4 Generated table #16@0: 43 keys, 34195 bytes
+2024/03/06-23:17:02.109 4 Compacted 4@0 + 1@1 files => 34195 bytes
+2024/03/06-23:17:02.111 4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/03/06-23:17:02.112 4 Delete type=2 #13
+2024/03/06-23:17:02.112 4 Delete type=2 #11
+2024/03/06-23:17:02.112 4 Delete type=2 #7
+2024/03/06-23:17:02.112 4 Delete type=2 #15
+2024/03/06-23:17:02.112 4 Delete type=2 #9
+2024/03/06-23:31:05.344 4 Level-0 table #18: started
+2024/03/06-23:31:05.355 4 Level-0 table #18: 56455 bytes OK
+2024/03/06-23:31:05.359 4 Delete type=0 #14
+2024/03/06-23:42:18.883 4 Level-0 table #20: started
+2024/03/06-23:42:18.894 4 Level-0 table #20: 60622 bytes OK
+2024/03/06-23:42:18.897 4 Delete type=0 #17

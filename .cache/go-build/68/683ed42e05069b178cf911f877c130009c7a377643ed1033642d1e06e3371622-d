@@ -1,0 +1,6 @@
+./golangci-lint.go
+./handler.go
+./logger.go
+./lsp.go
+./main.go
+./uri.go

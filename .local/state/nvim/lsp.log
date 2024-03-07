@@ -1,0 +1,11 @@
+[START][2024-03-06 23:38:39] LSP logging initiated
+[ERROR][2024-03-06 23:38:39] .../vim/lsp/rpc.lua:734	"rpc"	"/home/buidai289/.local/share/nvim/mason/bin/golangci-lint-langserver"	"stderr"	"golangci-lint-langserver: connections opened\n"
+[ERROR][2024-03-06 23:40:09] ...lsp/handlers.lua:535	"2024/03/06 23:40:09 warning: while diagnosing orphaned files: session is shut down\n"
+[ERROR][2024-03-06 23:40:09] .../vim/lsp/rpc.lua:734	"rpc"	"/home/buidai289/.local/share/nvim/mason/bin/golangci-lint-langserver"	"stderr"	'2024/03/06 23:40:09 jsonrpc2 handler: notification "exit" handling error: jsonrpc2: code -32601 message: method not supported: exit\n'
+[START][2024-03-06 23:40:10] LSP logging initiated
+[ERROR][2024-03-06 23:40:10] .../vim/lsp/rpc.lua:734	"rpc"	"/home/buidai289/.local/share/nvim/mason/bin/golangci-lint-langserver"	"stderr"	"golangci-lint-langserver: connections opened\n"
+[ERROR][2024-03-06 23:40:34] ...lsp/handlers.lua:535	"2024/03/06 23:40:34 warning: while diagnosing orphaned files: session is shut down\n"
+[ERROR][2024-03-06 23:40:34] .../vim/lsp/rpc.lua:734	"rpc"	"/home/buidai289/.local/share/nvim/mason/bin/golangci-lint-langserver"	"stderr"	'2024/03/06 23:40:34 jsonrpc2 handler: notification "exit" handling error: jsonrpc2: code -32601 message: method not supported: exit\n'
+[START][2024-03-06 23:40:46] LSP logging initiated
+[ERROR][2024-03-06 23:40:46] .../vim/lsp/rpc.lua:734	"rpc"	"/home/buidai289/.local/share/nvim/mason/bin/golangci-lint-langserver"	"stderr"	"golangci-lint-langserver: connections opened\n"
+[ERROR][2024-03-06 23:41:17] ...lsp/handlers.lua:535	"2024/03/06 23:41:17 warning: while diagnosing orphaned files: session is shut down\n"
